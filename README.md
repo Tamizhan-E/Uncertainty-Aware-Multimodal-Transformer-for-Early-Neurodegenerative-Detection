@@ -1,0 +1,2 @@
+# Uncertainty-Aware-Multimodal-Transformer-for-Early-Neurodegenerative-Detection
+A research-driven multimodal transformer framework for early detection of neurodegenerative disorders using ADNI MRI, PET, cognitive, and clinical data. Integrates uncertainty quantification, explainable AI, and clinical interpretability to improve diagnostic reliability, support risk assessment, and enable trustworthy decision-making.
