@@ -161,37 +161,7 @@ Disease Prediction & Risk Assessment
 
 ---
 
-## Repository Structure
 
-```text
-├── data/
-│   ├── raw/
-│   ├── processed/
-│
-├── notebooks/
-│
-├── src/
-│   ├── preprocessing/
-│   ├── feature_extraction/
-│   ├── transformer/
-│   ├── uncertainty/
-│   ├── explainability/
-│   └── evaluation/
-│
-├── models/
-│
-├── results/
-│   ├── figures/
-│   ├── metrics/
-│
-├── docs/
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
 
 ## Evaluation Metrics
 
@@ -250,6 +220,4 @@ Artificial Intelligence & Machine Learning
 
 ---
 
-## License
 
-This project is released under the MIT License.
