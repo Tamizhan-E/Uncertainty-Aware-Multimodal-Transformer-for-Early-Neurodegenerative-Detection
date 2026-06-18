@@ -198,20 +198,6 @@ The framework will be evaluated using:
 
 ---
 
-## Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{tamizhan2026multimodaltransformer,
-  title={Uncertainty-Aware Multimodal Transformer Framework for Early Detection of Neurodegenerative Disorders with Clinical Explainability},
-  author={Tamizhan E},
-  year={2026}
-}
-```
-
----
-
 ## Author
 
 **Tamizhan Elango**
